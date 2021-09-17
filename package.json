@@ -84,6 +84,7 @@
     "deepmerge": "^4.2.2",
     "framer-motion": "^4.1.17",
     "modern-normalize": "^1.1.0",
+    "react-content-loader": "^6.0.3",
     "react-datepicker": "^4.2.1",
     "react-modal": "^3.14.3",
     "react-player": "^2.9.0",
